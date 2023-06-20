@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bensouda El Mehdi</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
-
-### 💻 About Me
-
-👀 I’m interested in Software Engineering and Artificial Intelligence...
-
-👨🏻‍💻 I’m currently learning Software Engineering at ALX...
-
-💞️ Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!
-
-✉️  You can email me at bensoudamehdi6@gmail.com. I'll try to respond as soon as possible!
-
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmehdi02&label=Profile%20views&color=0e75b6&style=flat" alt="elmehdi02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmehdi02" alt="elmehdi02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/el_bensouda" target="blank"><img src="https://img.shields.io/twitter/follow/el_bensouda?logo=twitter&style=for-the-badge" alt="el_bensouda" /></a> </p>
+
+- 👨🏻‍💻 I’m currently learning **Software Engineering at ALX**
+
+- 💞 Feel free to reach out to me for general consulting, **or discussions on the aforementioned topics!**
+
+- 📫 How to reach me **bensoudamehdi6@gmail.com**
+
+- 👀 I’m interested **in Software Engineering and Artificial Intelligence...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
