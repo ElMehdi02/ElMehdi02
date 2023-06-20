@@ -13,7 +13,7 @@
 
 - 💞 Feel free to reach out to me for general consulting, **or discussions on the aforementioned topics!**
 
-- 📫 How to reach me **bensoudamehdi6@gmail.com**
+- 📧 you can email me at **bensoudamehdi6@gmail.com**.
 
 - 👀 I’m interested **in Software Engineering and Artificial Intelligence...**
 
