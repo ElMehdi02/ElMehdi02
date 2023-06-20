@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bensouda El Mehdi</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmehdi02&label=Profile%20views&color=0e75b6&style=flat" alt="elmehdi02" /> </p>
 
@@ -12,6 +12,7 @@
 <a href="https://twitter.com/el_bensouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el_bensouda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/el mehdi bensouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el mehdi bensouda" height="30" width="40" /></a>
 <a href="https://instagram.com/bensoudaamehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bensoudaamehdi" height="30" width="40" /></a>
+<a href="https://discord.gg/mehdi8816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mehdi8816" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
