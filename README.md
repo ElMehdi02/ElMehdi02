@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 I’m currently learning **Software Engineering**
   
-- - 👀 I’m interested **in Software Engineering and Artificial Intelligence...**
+- 👀 I’m interested **in Software Engineering and Artificial Intelligence...**
 
 - 💞 Feel free to reach out to me for general consulting, **or discussions on the aforementioned topics!**
 
