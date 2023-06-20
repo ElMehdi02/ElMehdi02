@@ -10,12 +10,13 @@
 ### 💻About me 
 
 - 👨🏻‍💻 I’m currently learning **Software Engineering**
+  
+- - 👀 I’m interested **in Software Engineering and Artificial Intelligence...**
 
 - 💞 Feel free to reach out to me for general consulting, **or discussions on the aforementioned topics!**
 
 - 📧 you can email me at **bensoudamehdi6@gmail.com**.
 
-- 👀 I’m interested **in Software Engineering and Artificial Intelligence...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
