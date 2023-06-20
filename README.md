@@ -9,7 +9,7 @@
 
 ### 💻About me 
 
-- 👨🏻‍💻 I’m currently learning **Software Engineering at ALX**
+- 👨🏻‍💻 I’m currently learning **Software Engineering**
 
 - 💞 Feel free to reach out to me for general consulting, **or discussions on the aforementioned topics!**
 
