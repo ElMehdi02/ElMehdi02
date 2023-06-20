@@ -12,4 +12,6 @@
 
 ### 📫 How to reach me :
 
-LinkedIn: [linkedIn Profile](https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/)                        [twitter](https://twitter.com/el_bensouda?s=21&t=8ecAmmP4Kf8uKKtdQSnyFg)
+LinkedIn: [linkedIn Profile](https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/)                       
+
+[twitter](https://twitter.com/el_bensouda?s=21&t=8ecAmmP4Kf8uKKtdQSnyFg)
