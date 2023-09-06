@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmehdi02&label=Profile%20views&color=0e75b6&style=flat" alt="elmehdi02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmehdi02" alt="elmehdi02" /></a> </p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="left"> <a href="https://twitter.com/el_bensouda" target="blank"><img src="https://img.shields.io/twitter/follow/el_bensouda?logo=twitter&style=for-the-badge" alt="el_bensouda" /></a> </p>
 
@@ -39,3 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmehdi02&&theme=tokyonight" alt="elmehdi02" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmehdi02" alt="elmehdi02" /></a> </p>
