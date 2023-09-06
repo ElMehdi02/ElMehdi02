@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmehdi02&label=Profile%20views&color=0e75b6&style=flat" alt="elmehdi02" /> </p>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 <p align="left"> <a href="https://twitter.com/el_bensouda" target="blank"><img src="https://img.shields.io/twitter/follow/el_bensouda?logo=twitter&style=for-the-badge" alt="el_bensouda" /></a> </p>
 
