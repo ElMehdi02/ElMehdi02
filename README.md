@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋🏼, I'm Bensouda El Mehdi</h1>
 <h3 align="center">A young Moroccan 🇲🇦 passionate about coding, design, and all things tech, with a strong interest in data science and artificial intelligence.</h3>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Welcome!) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmehdi02&label=Profile%20views&color=0e75b6&style=flat" alt="elmehdi02" /> </p>
@@ -39,4 +40,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmehdi02&&theme=tokyonight" alt="elmehdi02" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElMehdi02&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
