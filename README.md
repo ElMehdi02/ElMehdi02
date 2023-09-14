@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏼, I'm Bensouda El Mehdi</h1>
 <h3 align="center">A young Moroccan 🇲🇦 passionate about coding, design, and all things tech, with a strong interest in data science and artificial intelligence.</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008B&size=35&center=true&vCenter=true&width=200&lines=Welcome!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=200&lines=Welcome!) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmehdi02&label=Profile%20views&color=0e75b6&style=flat" alt="elmehdi02" /> </p>
