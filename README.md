@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/el_bensouda" target="blank"><img src="https://img.shields.io/twitter/follow/el_bensouda?logo=twitter&style=for-the-badge" alt="el_bensouda" /></a> </p>
 
-### 💻About me 
+### About me 💻
 
 - 👨🏻‍💻 I’m currently learning **Software Engineering and Web Design**
   
