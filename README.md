@@ -24,7 +24,7 @@
 
 ## <b> `Connect with me:`  </b>
 <p align="left">
-<a href="https://twitter.com/el_bensouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el_bensouda" height="30" width="40" /></a>
+<a href="https://twitter.com/el_bensouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="el_bensouda" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el mehdi bensouda" height="30" width="40" /></a>
 <a href="https://dev.to/elmehdi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elmehdi01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/elmehdi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elmehdi02" height="30" width="40" /></a>
