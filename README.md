@@ -29,9 +29,9 @@
 <a href="https://dev.to/elmehdi01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elmehdi01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/elmehdi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elmehdi02" height="30" width="40" /></a>
 <a href="https://instagram.com/bensouda_elmehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bensoudaamehdi" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@ElMehdi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="elmehdi02" height="30" width="40" /></a> 
+  <a href="https://hashnode.com/@ElMehdi02" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="30" height="30" align="center"></a> 
   <a href="https://codepen.io/ElMehdi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ElMehdi02" height="30" width="40" /></a>
-<a href="https://discord.gg/elmehdibensouda01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elmehdibensouda01" height="30" width="40" /></a>
+<a href="https://discord.gg/elmehdibensouda01" target="blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" align="center"></a>
 </p>
 
 
